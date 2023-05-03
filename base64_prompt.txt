@@ -1,0 +1,40 @@
+
+
+        Hello,
+
+        We're glad you're here!
+
+        Ramp has been fortunate to experience exponential growth over the past
+        few years and with it our application volume has surged.
+
+        In this situation, many startups opt to use off-the-shelf timed leetcode
+        style SaaS tools to thin application volume.
+
+        We thought puzzles in the spirit of a CTF[1] would be more fun and a
+        better expression of our values. As we expect you to spend a little bit
+        of time on this gating challenge, we thought it was appropriate that we
+        put time and effort into crafting it ourselves.
+
+        We're aware answers here might eventually be leaked and we'll probably
+        have to refresh this every couple months or so, but please keep in mind
+        it'll be very easy to tell once that happens and will only result in
+        slowing down our ability to process applications - so please keep the
+        flags to yourself.
+
+        All flags are seven letter dictionary words.
+
+        All flag gates are independent of each other - i.e. you don't need to
+        find one flag to unlock the next one.
+
+        Please submit at least two flags, but feel free to submit as many as you
+        can find.
+
+        Enjoy!
+
+        - Ramp Engineering <ctf@ramp.com>
+
+
+        1: https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)
+
+
+        
