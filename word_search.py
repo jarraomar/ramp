@@ -1,6 +1,6 @@
 import random
 
-# Read words from the local dictionary file
+# Read words from the local dictionary file, got the words_alpha from https://github.com/dwyl/english-words
 with open('words_alpha.txt') as f:
     words = f.readlines()
 words = [word.strip() for word in words]
